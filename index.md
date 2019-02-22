@@ -39,20 +39,26 @@ B.S. in Internet of Things
 
 **JD.COM INC.**   
 > Software Engineering Intern in JD X – An innovation lab for unmanned packages delivery   
-> Beijing, 2016 
+> Beijing, 2016         
+
 * Worked on a real-time scalable monitor system for large number of drones, which supports automatic defects and deviation detection, used Spark to process streaming data from sensors such as GPS, power
+
 * Visualized location and status based on Baidu Map API, Flask back-end and MongoDB, which was used for a demo in JD drone controlling center
 
 ## SELECTED PROJECTS
 **QALite**
-> Full-stack Web Application, Cloud Computing                                                                                                                           > Columbia, 2018
+> Full-stack Web Application, Cloud Computing                                                                                                                               > Columbia, 2018     
+
 * It is a Q&A platform like Piazza with scalable Microservices Architecture based on AWS Elastic Beanstalk and Lambda
+
 * Made REST APIs with Swagger and API Gateway for users, courses, posts and comments, built automatic Email notification service by AWS SNS and SES, supported Google OAth2, used Travis-CI and Pytest for continuous integration
+
 * Built Front-end by Bootstrap and React which was placed on S3 and CloudFront to accelerate distribution
 
 **Linux Kernel Hacking**
-> Operating System   
-> Columbia, 2018
+> Operating System       
+> Columbia, 2018   
+
 * Android orientation synchronization System call: Used Spinlock, IDR, Wait Queue to allow multiple processes registering, destroying orientation events and getting notified when certain orientation event happens
 * A multi-core Weighted Round-Robin Scheduler:  Built prior to Linux Fair scheduler, supported CPU Affinity on multi-threads in the same process and load balancing on processors by pushing and pulling processes from run queue
 * A simple Shell: Implemented in C which supports fork and execute built-in commands, pipes and command history
@@ -61,16 +67,19 @@ B.S. in Internet of Things
 **Databass**
 > a Python-based database for instruction
 > Columbia, 2018
+
 * Implemented a Query compiler which directly compiles query to python for execution improves 50x faster than original interpreter. It supports Project, Scan, Filter, Count and Where clause
 * Added offset and limit function in SQL syntax parser using Parsimonious, Regex
 * Wrote a Selinger optimizer for multi-table join which supports predicate pushdown and Dynamic Programming
 
 **Landmark Recognition**
 > Computer Vision, CNN
-> Columbia, 2019
+> Columbia, 2019    
+
 * Classified landmarks in Columbia University based on Keras, supporting smartphone browsers based on TensorFlow.js 
 * Collected dataset from self-captured videos and images from Google, used pretrained model VGG16 to train with Data augmentation, Dropout and Fine-Tone
 
 **Airlock**
-> Embedded System                                                                                                                       > UESTC, 2016
+> Embedded System                                                                                                                           > UESTC, 2016     
+
 * It is a Bluetooth lock for delivery packages sponsored by Chengdu Pangod Inc. This smart lock has AES-128 encryption and GPS tracking. It supported BLE Stack using TI CC2541. Patent No. 2016201342833
