@@ -1,13 +1,9 @@
 ## EDUCATION
-Aug. 2018 - Dec. 2019 | New York   
 **Columbia University**  
 M.S. in Electrical Engineering   
-GPA: 3.92 
 
-Sep. 2013 - Jun. 2017 | Chengdu, China   
 **University of Electronic Science and Technology of China**  
 B.S. in Internet of Things  
-GPA: 3.82   
 
 ## TECH STACK
 - Python, Java, C/C++, JavaScript
