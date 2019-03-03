@@ -6,7 +6,7 @@ M.S. in Electrical Engineering
 B.S. in Internet of Things  
 
 ## TECH STACK
-- Python, Java, C/C++, JavaScript
+- Python, Java, C, JavaScript
 - TensorFlow, Keras, Scikit-learn
 - React, NodeJS, Flask
 - Linux, Embedded System
