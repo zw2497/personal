@@ -66,16 +66,18 @@ Columbia, 2018
 
 * [In-memory Proc File System](https://github.com/zw2497/Linux-Proc-File-System): Constructed a pseudo file system in Linux which can present process hierarchy in directory
 
-[**Databass**](https://github.com/zw2497/DatabassEngine)      
-a Python-based database for instruction
-Columbia, 2018
+[**Databass**](https://github.com/zw2497/DatabassEngine)       
+a Python-based database for instruction      
+Columbia, 2018       
 
 * Implemented a Query Compiler which directly compiles SQL to Python code for execution which improves 50x faster than original interpreter. It supports operation such as Project, Scan, Filter, Count
 
 * Added support on Offset, Limit, Orderby and Count function, implemented a Selinger Optimizer for multi-table join which supports predicate pushdown and dynamic programming
 
         
-**Deep Neural Network (Current Project)**
+**Deep Neural Network (Current Project)**      
+Columbia, 2019        
+
 * [Landmark Recognition](https://zw2497.github.io): Classify landmarks in Columbia using Keras, VGG16 with Fine-Tuning, support phone browsers using TensorFlow.js (Working on)
 
 * [GANS tutorial](https://github.com/tensorflow/tensorflow): Design GANS tutorial for incoming Tensorflow 2.0 such as DCGAN, CycleGAN (Working on)
@@ -84,7 +86,10 @@ Columbia, 2018
 
 
 
-[**Airlock**](https://zw2497.github.io)            
-Embedded System                                                                                                                                         UESTC, 2016     
+[**Airlock**](https://zw2497.github.io)     
+Embedded System    
+UESTC, 2016            
 
-* It is a Bluetooth lock for delivery packages sponsored by Chengdu Pangod Inc. This smart lock has AES-128 encryption and GPS tracking. It supported BLE Stack using TI CC2541. Patent No. 2016201342833
+* It is a Bluetooth lock for delivery packages sponsored by Chengdu Pangod Inc. 
+
+* This smart lock has AES-128 encryption and GPS tracking. It supported BLE Stack using TI CC2541. Patent No. 2016201342833
