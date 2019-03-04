@@ -1,8 +1,11 @@
-## EDUCATION
+## About Me
+![photo](./0.jpeg)
+
+
 **Columbia University**  
 M.S. in EE         
 `But mostly, I focus on DB, OS, AI and Cloud.`    
-` ̄\_(ツ)_/ ̄ which is more promising`
+```  ̄\_(ツ)_/ ̄ which is more promising ```
 
 **University of Electronic Science and Technology of China**  
 B.S. in IoT  
