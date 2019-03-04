@@ -76,11 +76,11 @@ Columbia, 2018
 
         
 **Deep Neural Network (Current Project)**
-* [**Landmark Recognition**](https://zw2497.github.io): Classify landmarks in Columbia using Keras, VGG16 with Fine-Tuning, support phone browsers using TensorFlow.js
+* [Landmark Recognition](https://zw2497.github.io): Classify landmarks in Columbia using Keras, VGG16 with Fine-Tuning, support phone browsers using TensorFlow.js (Working on)
 
-* Design GANS tutorial for incoming Tensorflow 2.0 such as DCGAN, CycleGAN
+* [GANS tutorial](https://github.com/tensorflow/tensorflow): Design GANS tutorial for incoming Tensorflow 2.0 such as DCGAN, CycleGAN (Working on)
 
-* Use LSTM training on TIMIT linguistic dataset for English speech recognition, train Auto Encoder for noise reduction
+* [Phoneme_recognition_with_neural_networks](https://github.com/zw2497/Keras_LSTM_Tutorial): Use LSTM training on TIMIT linguistic dataset for English speech recognition, train Auto Encoder for noise reduction (Working on)
 
 
 
