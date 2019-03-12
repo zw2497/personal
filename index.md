@@ -29,11 +29,11 @@ B.S. in IoT
 Teaching Assistant
 Spring 2019
 
-* Mentored 20+ students in designing Relational Database model, writing SQL, understanding Index, Concurrency, Optimizer, Logging, Column Stores and Spatial Searching in Database
+* Mentored students in designing Relational Database
 
-* Designing tutorials about building back end using Postgres and Flask, maintained an AWS RDS for holding 40 websites      
+* Designed tutorials about building back end using Postgres and Flask      
 
-* Instructed social network graph analysis such as centrality, distances, PageRank, clustering on Twitter dataset using Google BigQuery. 
+* Designed social network graph analysis project such as PageRank on Twitter dataset using Google BigQuery. 
 
 * This course is freely available online at [https://w4111.github.io](https://w4111.github.io)
 
@@ -42,9 +42,9 @@ Spring 2019
 Software Engineering Intern in JD X – An innovation lab for unmanned packages delivery 
 Beijing, 2016
          
-* Co-designed a scalable monitor system for large number of drones, which supports real-time automatic defects and deviation detection. It processed streaming data from sensors such as GPS, power, accelerometer using Spark Streaming
+* Co-designed a scalable monitor system for large number of drones using Spark Streaming
 
-* Visualized location and status based on Baidu Map API, Flask and MongoDB, which was used for a demo in JD drone controlling center
+* Visualized location and status which was used for a demo in JD drone controlling center
 
 ## SELECTED PROJECTS
 
@@ -52,11 +52,11 @@ Beijing, 2016
 Full-stack Web Application, Cloud Computing    
 Columbia, 2018      
 
-* Designed a Q&A platform like Piazza with scalable Microservices Architecture based on AWS Elastic Beanstalk and Lambda
+* Designed a Q&A platform like Piazza with scalable Microservices Architecture
 
-* Made REST APIs with Swagger and API Gateway for recourses, built automatic Email notification service by AWS SNS and SES, supported Google OAth2, address autocomplete, used Travis-CI and Pytest for continuous integration
+* Made REST APIs , built automatic Email notification service, supported Google OAth2, address autocomplete, used Travis-CI and Pytest   
 
-* Built front end by Bootstrap and React, generated Token using JWT to maintain login status, used Fetch to get data from back end, placed static content on S3 and CloudFront to accelerate distribution
+* Built front end by Bootstrap and React, using JWT to maintain login status, used Fetch to get data from back end, placed static content on S3 and CloudFront to accelerate distribution
 
 **Linux Kernel Hacking**
 Operating System    
