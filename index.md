@@ -1,6 +1,10 @@
 ## About Me
 ![photo](./0.jpeg)
 
+Zhicheng Wu    
+The pronunciation of my name is: "G CHI-AN, Wu".    
+Just call my first name "G CHI-AN" will be good.
+
 
 **Columbia University**  
 M.S. in EE         
@@ -93,3 +97,8 @@ UESTC, 2016
 * It is a Bluetooth lock for delivery packages sponsored by Chengdu Pangod Inc. 
 
 * This smart lock has AES-128 encryption and GPS tracking. It supported BLE Stack using TI CC2541. Patent No. 2016201342833
+
+
+**Miscellaneous**            
+My Chinese name is: 吴志成.      
+In my country, the surname is placed first, followed by the given name.
