@@ -74,9 +74,9 @@ Columbia, 2018
 a Python-based database for instruction      
 Columbia, 2018       
 
-* Implemented a Query Compiler which directly compiles SQL to Python code for execution which improves 50x faster than original interpreter. It supports operation such as Project, Scan, Filter, Count
+* Implemented a Query Compiler which directly compiles SQL to Python code for execution. It supports operation such as Project, Scan, Filter, Count
 
-* Added support on Offset, Limit, Orderby and Count function, implemented a Selinger Optimizer for multi-table join which supports predicate pushdown and dynamic programming
+* Added support on Offset, Limit, Orderby and Count function, implemented a Selinger Optimizer for multi-table join
 
         
 **Deep Neural Network (Current Project)**      
