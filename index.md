@@ -116,5 +116,4 @@ UESTC, 2016
 
 
 **Miscellaneous**            
-My Chinese name is: 吴志成.      
-In my country, the surname is placed first, followed by the given name.
+My Chinese name is: 吴志成.
