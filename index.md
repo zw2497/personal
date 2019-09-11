@@ -1,50 +1,46 @@
 ## About Me
 ![photo](./0.jpeg)
 
-Zhicheng Wu    
-The pronunciation of my name is: "G CHI-AN, Wu".    
-Just call my first name "G CHI-AN" will be good.
+Zhicheng Wu(Gee-chan, Woo)   
 
 
 **Columbia University**  
-M.S. in EE         
-`But mostly, I focus on DB, OS, AI and Cloud.`    
-```  ̄\_(ツ)_/ ̄ which is more promising ```
+M.S. in Data-Driven Analysis and Computation, EE
 
 **University of Electronic Science and Technology of China**  
-B.S. in IoT  
-
-## TECH STACK
-- Python, Java, C, JavaScript
-- TensorFlow, Keras, Scikit-learn
-- React, Express(Node.js), Flask
-- Linux, Embedded System
-- PostgreSQL, MySQL, DynamoDB, MongoDB, HBase
-- Spark, Beam, Hadoop, Hive
+B.S. in Internet Of Things
 
 ## PROFESSIONAL EXPERIENCE
 
+[**Yahoo's Push Notification Team**](https://www.verizonmedia.com/?guccounter=1)  
+Software Engineering Intern
+Summer 2019
 
-[**CS W4111: INTRODUCTION TO DATABASES**](http://w4111.github.io)                                                                                               
+• Built a web tool for the Push platform and its scalable REST based microservices (Undertow, Guice, JAX-RS, Netty, DynamoDB)
+
+• Parallelized functional test and added different environment support (Kubernetes, Multithread, CICD)
+
+• Developed tool’s features like permalink, rate limiting, authorization, autocompletion and query builder (React, Redis, Vespa)
+
+[**CS 4111: INTRODUCTION TO DATABASES, CS 6156 Microservices**](https://w4111.github.io)                                                                                               
 Teaching Assistant
-Spring 2019
 
-* Mentored students in designing Relational Database
+Spring 2019 - Now
 
-* Designed tutorials about building back end using Postgres and Flask      
+• Mentored students in relational model, SQL, Normalization, Transaction, Concurrency and Recovery (PostgreSQL)
 
-* Designed social network graph analysis project such as PageRank on Twitter dataset using Google BigQuery. 
+• Designed a graph analysis course project using BigQuery, the course is free online at https://w4111.github.io
 
-* This course is freely available online at [https://w4111.github.io](https://w4111.github.io)
+• Mentored students in implementing scalable web applications with Kubernetes, AWS, docker, asynchronous architecture, CICD
 
+[**JD.COM INC. Drone Delivery Team**](http://x.jdwl.com/drone/index)    
+Software Engineering Intern
 
-[**JD.COM INC.**](http://x.jdwl.com/drone/index)    
-Software Engineering Intern in JD X – An innovation lab for unmanned packages delivery 
 Beijing, 2016
          
-* Co-designed a scalable monitor system for large number of drones using Spark Streaming
+• Designed a real-time health checking system for delivery drones by processing streaming data (Python, Flask, Kafka, Spark)
 
-* Visualized location and status which was used for a demo in JD drone controlling center
+• Customized RTK-GPS driver to improve navigation accuracy
 
 ## SELECTED PROJECTS
 
@@ -60,33 +56,62 @@ Columbia, 2018
 
 **Linux Kernel Hacking**
 Operating System    
-Columbia, 2018
+Dec. 2018 – Feb. 2019
 
-* [Android orientation synchronization System call](https://github.com/zw2497/Android-Orientation-Synchronizer): Wrote an Android user-space daemon to pass device orientation info to kernel, used Wait Queue, Spinlock, IDR to allow multiple processes registering, destroying orientation events and getting notified when certain event happens    
+* [Proc File System](https://github.com/zw2497/Linux-Proc-File-System): Implemented an in-memory file system to dump processes information
 
-* [Multi-core Weighted Round-Robin Scheduler](https://github.com/zw2497/Linux-Weight-Round-Robin-scheduler): An O (1) CPU Affinity Multicore Scheduler which supports keeping track of weight on each CPUs, idle load balancing by pulling tasks, assigned same CPU affinity on each thread groups
+* [Weighted RR Scheduler](https://github.com/zw2497/Linux-Weight-Round-Robin-scheduler): Developed an O (1), multi-core load balancing scheduler with CPU tread group affinity
 
-* [Simple Shell](https://github.com/zw2497/Linux-Simple-Shell): Implemented in C which supports built-in commands as well as `pipes, !, !string, history, chdir`
+* [Android orientation synchronization System call](https://github.com/zw2497/Android-Orientation-Synchronizer): Built an Android thread-safe system call for orientation event trigger using Wait Queue, Spinlock, IDR
 
-* [In-memory Proc File System](https://github.com/zw2497/Linux-Proc-File-System): Constructed a pseudo file system in Linux which can present process hierarchy in directory
+* [Virtual Memory Inspector](https://github.com/zw2497/Linux-VMinspector): Implement a system call to dump page table to user interface
+
 
 [**Databass**](https://github.com/zw2497/DatabassEngine)       
-a Python-based database for instruction      
-Columbia, 2018       
+Python-based Database SQL Engine for instructional purpose
 
-* Implemented a Query Compiler which directly compiles SQL to Python code for execution. It supports operation such as Project, Scan, Filter, Count
+Oct. 2018 – Dec. 2018     
 
-* Added support on Offset, Limit, Orderby and Count function, implemented a Selinger Optimizer for multi-table join
+* Implemented SQL parser, compiler, executer and Selinger optimizer
 
+* Supported SQL operation such as Project, Scan, Filter, Count, Offset, Limit, OrderBy
+
+[**Tweet Stream Analysis System**](https://github.com/zw2497/Twitter_Stream_Processing)
+
+Real-time Streaming Processing
+
+Apr. 2019 – May. 2019
+
+* Developed trend detection and sentiment analysis system based on streaming MapReduce (Kafka, Spark, NLTK, Hive) 
+
+* Visualized the real-time processed data with graph (D3.js, Flask, Firebase)
         
-**Deep Neural Network (Current Project)**      
-Columbia, 2019        
+[**Cycle-Consistent Adversarial Networks**](https://github.com/zw2497/Cycle_GAN_Tutorial)	
+Unpaired Image Translation Model by TensorFlow
+Mar. 2019 – Apr. 2019
 
-* [Landmark Recognition](https://zw2497.github.io): Classify landmarks in Columbia using Keras, VGG16 with Fine-Tuning, support phone browsers using TensorFlow.js (Working on)
+* Built image generator, discriminator model using encoder, decoder and residual block transformer
 
-* [GANS tutorial](https://github.com/tensorflow/tensorflow): Design GANS tutorial for incoming Tensorflow 2.0 such as DCGAN, CycleGAN (Working on)
+* Implement image preprocessing pipeline, defined cycle loss, trained apple and orange model using GCP
 
-* [Phoneme_recognition_with_neural_networks](https://github.com/zw2497/Keras_LSTM_Tutorial): Use LSTM training on TIMIT linguistic dataset for English speech recognition, train Auto Encoder for noise reduction (Working on)
+[**Natural Language Translation**]()
+Spanish, English, Chinese and French translation Neural Network Model
+
+Feb. 2019 – Mar. 2019
+
+* Implemented text embedding, mapping, encoding, decoding (Keras, TensorFlow)
+
+* Built the translation model with attention mechanism, evaluated with BLEU score
+
+[**QALite**](https://github.com/zw2497/QAlite)
+Social Learning Platform
+
+Aug. 2018 – Oct. 2018
+
+* Developed question posting system, comment system for both frontend and backend (React, PostgreSQL)
+
+* Built microservices with RESTful API using AWS EB, Lambda, API Gateway, S3, CloudFront, Swagger, SQS, SES
+
 
 
 
